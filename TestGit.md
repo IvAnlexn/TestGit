@@ -1,0 +1,1 @@
+# Code.py выводит на экран Hello World
